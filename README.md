@@ -16,4 +16,4 @@
 
 ### `yarn eject`
 
-Note: this is a one-way operation. Once you `eject`, you can’t go back!
+eject 可以把 create-react-app 里面集成的 webpack babel的配置给暴露出来，然后我们才能对webpack进行修改
